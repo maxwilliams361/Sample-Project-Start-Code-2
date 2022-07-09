@@ -45,6 +45,7 @@ a{
 
 .title{
     color:yellow;
+    font-size:100px;
 }
 
 .navbar{
@@ -60,3 +61,4 @@ a{
 .box-image{
     border:none;
 }
+
